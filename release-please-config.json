@@ -8,5 +8,6 @@
       "package-name": "Alarming-Plugins",
       "changelog-path": "CHANGELOG.md"
     }
-  }
+  },
+  "bootstrap-sha": "5290d0de5c4eea6557070c76dce3e78e9cf7faaa"
 }
